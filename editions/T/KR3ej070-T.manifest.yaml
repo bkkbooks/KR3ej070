@@ -1,0 +1,22 @@
+canonical_identifier: bkk:krp/KR3ej070/T/v1
+canonical_location: https://kanripo.org/bkk/KR3ej070/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 少小嬰孺方
+  identifiers:
+    krp: KR3ej070
+  tags:
+    kr-categories: KR3ej
+    tls-dates: dat04410
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ej070.xml
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 1, filename: KR3ej070_001-T.yaml, hash: 'sha256:9cc23c3f5dd0232044fb07d814c89f8b5c00181ec2cff458309d90df0cf64df5'}
+table_of_contents: []
+hash: sha256:3272c3980d0cfcb00c46ad2af5c1723aeea9789dad5a660690f0d72505f9d8fc
